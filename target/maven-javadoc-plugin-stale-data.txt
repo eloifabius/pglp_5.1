@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_221\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\allclasses-frame.html = 1586802652569
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\allclasses-noframe.html = 1586802652577
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\argfile = 1586802650421
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\constant-values.html = 1586802652345
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\deprecated-list.html = 1586802652529
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\help-doc.html = 1586802652634
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\index-all.html = 1586802652498
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\index.html = 1586802652589
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\options = 1586802650420
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\overview-tree.html = 1586802652464
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\package-list = 1586802652111
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\script.js = 1586802652714
+C:\Users\Fabius\Desktop\java\pgl5.1\target\site\testapidocs\stylesheet.css = 1586802652694
